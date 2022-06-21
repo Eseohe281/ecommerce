@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    width: 50;
+    height: 50px;
+}
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+    
+}
+.icon-bar
+{
+    background: darkorange;
+}
+.img{
+    width: 300px;
+    height: 300px;
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-main{
+    background-color: darkorange;
+    color: beige;
+}
+a.btn-first{
+    background-color: darkslateblue;
+    color: #efefef;
+}
+a.btn-second{
+    background: transparent;
+    border: 1px solid grey;
+    color: black;
+}
+a.btn-features{
+    background-color:darkorange ;
+    color: beige;
+}
+.features{
+text-align: center;
+float: center;
+-ms-flex-align: center;;
+padding-bottom: 60px;
+margin-bottom: 60px;
+margin: 45px 30px;
+border: 30px 10px ;
+}
+.move{
+padding: 20px 20px 20px 20px;
+}
+.fil{
+    padding: 20px 20px 20px 20px;
+}
+.potentials{
+    float: left;
+    flex-direction: left;
+}
+
+
+
+    
+
+
